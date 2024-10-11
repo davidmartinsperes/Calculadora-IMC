@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgba(141, 175, 248, 0.384);
+  border-radius: 10px;
+}
+
+h1,h2,p{
+  color: white;
+}
+p,h2 {
+  font-size: 20px;
+}
+input{
+  border-radius: 5px;
+   font-size: 15px;
+   padding: 4px;
+}
+
+h3{ margin-top: 20px; width: 80%; max-width: 600px; }
